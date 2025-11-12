@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# Program make a simple calculator that can add, subtract, multiply and divide using functions
 
 def multiply(x, y):
    return x * y
@@ -10,8 +9,6 @@ def divide(x, y):
 def add(x, y):
    return x + y
 
-
-# This function subtracts two numbers 
 def subtract(x, y):
    return x - y
 
